@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there!
+
+My name is Bornyto Hamonangan. You can simply call me **Nito**.
+
+Currenly I am programming freelancer and Computer Science student at UI. 💻
+
+I love to troubleshoot things and happy to help! :smile:
+
+✨How to reach me:✨
+- [Email](mailto:b.hamonangan.p@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/bornyto-hamonangan)
 
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
