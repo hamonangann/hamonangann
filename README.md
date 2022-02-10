@@ -1,4 +1,4 @@
-### Hello there!
+### Hello there! 👋
 
 My name is Bornyto Hamonangan. You can simply call me **Nito**.
 
@@ -12,9 +12,15 @@ I love to troubleshoot things and happy to help! :smile:
 </a>
 </p>
 
-✨How to reach me:✨
+### 🖥️ My personal/open-source projects: 🖥️
+- [Sayembara App](https://sayembara-nit.herokuapp.com/): Simple announcement app using NodeJS and EJS Template Engine. Used internally for personal team projects. It contains all CRUD and every post is protected with encrypted password. The frontend is to be developed.
+- [Perkalian](https://perkalian.netlify.app/): Open-source educative game project to introduce better way to learn multiplication concept (repeated addition) and supports deliberate practicing for students. It's also available in [Python CLI version](https://github.com/hamonangann/perkalian).
+- [Quotes Inspiratif](https://quotes-inspiratif.netlify.app/): My original 'inspiration' quotes in a simple 1 page web, with only using HTML/CSS/vanilla Javascript.
+### ✨How to reach me:✨
 - [Email](mailto:b.hamonangan.p@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/bornyto-hamonangan)
+
+
 
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
