@@ -14,8 +14,8 @@ I love to troubleshoot things and happy to help! :smile:
 </p>
 
 ### 🖥️ My personal projects: 🖥️
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=sayembara-app)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=perkalian-web)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=sayembara-app)](https://github.com/hamonangann/sayembara-app)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=perkalian-web)](https://github.com/hamonangann/perkalian-web)
 
 ### ✨How to reach me:✨
 - [Email](mailto:b.hamonangan.p@gmail.com)
