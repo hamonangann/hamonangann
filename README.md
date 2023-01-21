@@ -2,7 +2,7 @@
 
 My name is Bornyto Hamonangan. You can simply call me **Nito**.
 
-Currenly I am programming freelancer and Computer Science student. 💻
+Currenly I am a backend engineer and Computer Science student. 💻
 
 I love to troubleshoot things and happy to help! :smile:
 
