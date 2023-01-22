@@ -1,25 +1,8 @@
-### Hello there! 👋
+## Hi there! 👋
 
-My name is Bornyto Hamonangan. You can simply call me **Nito**.
+My name is Nito. I love building softwares and simple Minecraft houses. Nice to meet you!
 
-Currenly I am a backend engineer and Computer Science student. 💻
-
-I love to troubleshoot things and happy to help! :smile:
-
-<p align="left">
-<a href="https://github.com/hamonangann">
-  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hamonangann&count_private=true&layout=compact&langs_count=8&theme=algolia"/> -->
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hamonangann&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
-### 🖥️ My personal projects: 🖥️
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=sayembara-app)](https://github.com/hamonangann/sayembara-app)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hamonangann&repo=perkalian-web)](https://github.com/hamonangann/perkalian-web)
-
-### ✨How to reach me:✨
-- [Email](mailto:b.hamonangan.p@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/bornyto-hamonangan)
+You can reach me via [my Email](mailto:b.hamonangan.p@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/bornyto-hamonangan)
 
 
 
