@@ -1,10 +1,8 @@
 ## Hi there! 👋
 
-My name is Nito. I love building softwares and simple Minecraft houses. Nice to meet you!
+My name is Nito. I love building simple Minecraft houses and software. Nice to meet you!
 
 You can reach me via [my Email](mailto:b.hamonangan.p@gmail.com) or [my LinkedIn](https://www.linkedin.com/in/bornyto-hamonangan)
-
-
 
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
