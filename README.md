@@ -11,7 +11,7 @@ Greetings! This is **B. Hamonangan**. I love to build simple Minecraft house and
 - Learn Golang in ["A Tour of Go"](https://go.dev/tour/welcome/1)
 - [Developer roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
 - [GitHub flow](https://ooloo.io/project/github-flow/git-workflows) tutorial by Ooloo
-- Visit my blog at [GHP](https://hamonangann.github.io/) and [Medium](https://hamonangan.medium.com)
+- Visit my (another) blog at [Medium](https://hamonangan.medium.com)
 
 ### Contact:
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com)
