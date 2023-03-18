@@ -4,7 +4,6 @@ This is **B. Hamonangan**. I build simple Minecraft home and software...
 
 ### They might be useful:
 
-- [Try Golang](https://go.dev/play/)
 - Learn Golang in ["A Tour of Go"](https://go.dev/tour/welcome/1)
 - [Developer roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
 - Play [command-line challenge](https://cmdchallenge.com/)
