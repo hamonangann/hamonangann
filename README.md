@@ -6,8 +6,8 @@ This is **B. Hamonangan**. I build simple Minecraft home and software...
 
 - Learn Golang programming in ["A Tour of Go"](https://go.dev/tour/welcome/1)
 - Play this [command-line challenge](https://cmdchallenge.com/)
-- Try [GitHub flow by Ooloo](https://ooloo.io/project/github-flow/git-workflows) to collaborate with others
-- Look at [The Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
+- Try GitHub flow to collaborate with others. [Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows).
+- Look at [The Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse) and don't get lost!
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
