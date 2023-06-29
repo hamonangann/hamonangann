@@ -11,7 +11,7 @@ This is **B. Hamonangan**. I build simple Minecraft home and software...
 
 ### They might be useful:
 
-- Try Github for individual use and collaborative use. This [Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows) helps.
+- Try GitHub flow for collaborative work on text files. [GitHub Flow Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows).
 - Try programming language, Golang for example: ["A Tour of Go"](https://go.dev/tour/welcome/1).
 - Look at [The (Software) Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
 - Visit [my blog](https://hamonangann.github.io) :v:
