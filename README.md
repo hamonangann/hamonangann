@@ -2,12 +2,19 @@
 
 This is **B. Hamonangan**. I build simple Minecraft home and software...
 
+### Tech I recommend:
+
+- <a href="https://www.go.dev/" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="21px" height="21px"></a> __Golang__: Simple yet powerful. Golang have almost completed internal library and it is very easy to import external library.
+- <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> __Python__: Begineer friendly too. Just like virus, found everywhere from simple script to cutting-edge AI.
+- <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="21px" height="21px"></a> __Firebase__: Best database to start. Easier to learn than SQL, suitable for most use cases.
+- <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="21px" height="21px"></a> __Docker__: Once we have different environment (computers) to run software, this guy will guarantee all things work.
+
 ### They might be useful:
 
-- Learn Golang programming in ["A Tour of Go"](https://go.dev/tour/welcome/1)
-- Play this [command-line challenge](https://cmdchallenge.com/)
-- Try GitHub flow to collaborate with others. [Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows).
-- Look at [The Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse) and don't get lost!
+- Try Github for individual use and collaborative use. This [Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows) helps.
+- Try programming language, Golang for example: ["A Tour of Go"](https://go.dev/tour/welcome/1).
+- Look at [The (Software) Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
+- Visit [my blog](https://hamonangann.github.io) :v:
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
