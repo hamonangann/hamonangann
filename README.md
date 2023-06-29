@@ -2,7 +2,7 @@
 
 This is **B. Hamonangan**. I build simple Minecraft home and software...
 
-### Tech I recommend:
+### Tech I really like:
 
 - <a href="https://www.go.dev/" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="21px" height="21px"></a> __Golang__: Simple yet powerful. Golang have almost completed internal library and it is very easy to import external library.
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="21px" height="21px"></a> __Python__: Begineer friendly too. Just like virus, found everywhere from simple script to cutting-edge AI.
