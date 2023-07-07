@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-This is **B. Hamonangan**. I build simple Minecraft home and software...
+This is **B. Hamonangan**. I build simple Minecraft homes and software...
 
 ### My favorite building tools:
 
