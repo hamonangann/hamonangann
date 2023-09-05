@@ -6,7 +6,6 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software...
 
 - <a href="https://www.go.dev/" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="15px" height="15px"></a> __Golang__: Simple yet powerful. Golang have almost completed internal library and it is very easy to import external library.
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="15px" height="15px"></a> __Python__: Begineer friendly too. Just like virus, found everywhere from simple script to cutting-edge AI.
-- <a href="https://www.firebase.com/" title="Firebase"><img src="https://github.com/get-icon/geticon/raw/master/icons/firebase.svg" alt="Firebase" width="15px" height="15px"></a> __Firebase__: Best database to start. Easier to learn than SQL, suitable for most use cases.
 - <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="15px" height="15px"></a> __Docker__: Once we have different environment (computers) to run software, this guy will guarantee all things work.
 
 ### They might be useful:
