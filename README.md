@@ -2,12 +2,14 @@
 
 This is **B. Hamonangan**. I build simple Minecraft homes and software. Let's talk about free software and cloud native more!
 
+<!--
 ### :bulb: My (G)LAMP stack:
 
 - <img src="https://github.com/get-icon/geticon/raw/master/icons/gnu.svg" alt="GNU" width="15px" height="15px"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="15px" height="15px"> **GNU/Linux** - the operating system
 - <img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="15px" height="15px"> **Apache** - the web server
 - <img src="https://github.com/get-icon/geticon/raw/master/icons/mariadb-icon.svg" alt="MariaDB" width="15px" height="15px"> **MariaDB** - the database server
 - <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="15px" height="15px"> **Python** - the programming language (I'm currently learning PHP as well...)
+-->
 
 <!--
 ### My favorite building tools:
