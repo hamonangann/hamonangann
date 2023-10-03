@@ -18,6 +18,13 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software. Let's ta
 - <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="15px" height="15px"></a> __Python__: Begineer friendly too. Just like virus, found everywhere from simple script to cutting-edge AI.
 - <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="15px" height="15px"></a> __Docker__: Once we have different environment (computers) to run software, this guy will guarantee all things work.
 -->
+
+### 🛠 Building tools:
+
+- Quite familiar: Linux, MySQL, Python, Go
+- Currently learning: Apache, MariaDB, PHP
+
+
 ### :link: Useful for me, maybe for you too:
 
 - Try GitHub flow for collaborative work on text files. [GitHub Flow Tutorial by Ooloo](https://ooloo.io/project/github-flow/git-workflows).
