@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-This is **B. Hamonangan**. I build simple Minecraft homes and software. Let's talk about free software and cloud native more!
+This is **B. Hamonangan**. I build simple Minecraft homes and software.
 
 <!--
 ### :bulb: My (G)LAMP stack:
