@@ -32,6 +32,14 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 - Look at [The (Software) Developer Roadmap](https://roadmap.sh/) by [Kamran, et al.](https://github.com/kamranahmedse)
 - Visit [my blog](https://hamonangann.github.io) :v:
 
+<!--
+### Good references:
+
+- Pro Git book
+- Automate the Boring Stuff with Python
+- The GNU C Programming Tutorial
+-->
+
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
 <!--
