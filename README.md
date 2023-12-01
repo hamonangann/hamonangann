@@ -35,9 +35,8 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 <!--
 ### Good references:
 
-- Pro Git book
 - Automate the Boring Stuff with Python
-- The GNU C Programming Tutorial
+- perhaps SSD by EFF
 -->
 
 ### Want to say hi?
