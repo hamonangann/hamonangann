@@ -35,8 +35,8 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 <!--
 ### Good references:
 
-- Automate the Boring Stuff with Python
-- perhaps SSD by EFF
+- Automate the Boring Stuff with Python, AI Swegart
+- But How Do It Know, J. Clark Scott
 -->
 
 ### Want to say hi?
