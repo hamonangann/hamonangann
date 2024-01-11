@@ -22,7 +22,7 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 ### 🛠️ Building tools:
 
 - Quite familiar: GNU/Linux, MySQL, Python 3
-- Currently learning: Apache2, PHP
+- Currently learning: Apache2, MariaDB, PHP
 
 ### 📚 Useful books for everyone:
 
