@@ -21,7 +21,7 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 
 ### 🛠️ Building tools:
 
-- Quite familiar: GNU/Linux, MySQL, Python 3, Go
+- Quite familiar: GNU/Linux, MySQL, Python 3
 - Currently learning: Apache2, PHP
 
 ### 📚 Useful books for everyone:
