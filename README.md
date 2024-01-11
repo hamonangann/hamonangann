@@ -26,8 +26,8 @@ This is **B. Hamonangan**. I build simple Minecraft homes and software.
 
 ### 📚 Useful books for everyone:
 
-- Automate the Boring Stuff with Python, AI Swegart (automating daily tasks in computer). [Download](https://automatetheboringstuff.com/)
-- But How Do It Know, J. Clark Scott (understanding how computers are built and run). [Borrow](https://openlibrary.org/books/OL26675175M/But_How_Do_It_Know)
+- [Automate the Boring Stuff (in computer) with Python](https://automatetheboringstuff.com/), AI Swegart
+- [But How Do It Know--The Basic Principles of Computers For Everyone](https://openlibrary.org/books/OL26675175M/But_How_Do_It_Know), J. Clark Scott
 - Visit [my blog](https://hamonangann.github.io) :v:
 
 <!--
