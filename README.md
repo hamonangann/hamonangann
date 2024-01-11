@@ -2,27 +2,10 @@
 
 This is **B. Hamonangan**. I build simple Minecraft homes and software.
 
-<!--
-### :bulb: My (G)LAMP stack:
-
-- <img src="https://github.com/get-icon/geticon/raw/master/icons/gnu.svg" alt="GNU" width="15px" height="15px"><img src="https://github.com/get-icon/geticon/raw/master/icons/linux-tux.svg" alt="Linux" width="15px" height="15px"> **GNU/Linux** - the operating system
-- <img src="https://github.com/get-icon/geticon/raw/master/icons/apache.svg" alt="Apache" width="15px" height="15px"> **Apache** - the web server
-- <img src="https://github.com/get-icon/geticon/raw/master/icons/mariadb-icon.svg" alt="MariaDB" width="15px" height="15px"> **MariaDB** - the database server
-- <img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="15px" height="15px"> **Python** - the programming language (I'm currently learning PHP as well...)
--->
-
-<!--
-### My favorite building tools:
-
-- <a href="https://www.go.dev/" title="Golang"><img src="https://github.com/get-icon/geticon/raw/master/icons/go.svg" alt="Golang" width="15px" height="15px"></a> __Golang__: Simple yet powerful. Have almost completed internal library and it is very easy to import external library.
-- <a href="https://www.python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="15px" height="15px"></a> __Python__: Begineer friendly too. Just like virus, found everywhere from simple script to cutting-edge AI.
-- <a href="https://www.docker.com/" title="docker"><img src="https://github.com/get-icon/geticon/raw/master/icons/docker-icon.svg" alt="docker" width="15px" height="15px"></a> __Docker__: Once we have different environment (computers) to run software, this guy will guarantee all things work.
--->
-
 ### 🛠️ Building tools:
 
-- Quite familiar: GNU/Linux, MySQL, Python 3
-- Currently learning: Apache2, MariaDB, PHP
+- Quite familiar: GNU/Linux, MySQL Community, Python 3
+- Currently learning: Apache2, PHP
 
 ### 📚 Useful books for everyone:
 
