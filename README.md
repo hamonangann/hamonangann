@@ -1,11 +1,13 @@
 # Greetings! 👋
 
-This is **B. Hamonangan**. I build simple Minecraft homes and software.
+Hi! I am a Python chasing Gophers for food while sipping a cup of coffee in Java island.
 
+<!--
 ### 🛠️ Building tools:
 
 - Quite familiar: GNU/Linux, MySQL Community, Python 3
 - Currently learning: Apache2, PHP
+-->
 
 ### 📚 Useful books for everyone:
 
