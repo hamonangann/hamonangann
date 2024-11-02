@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-Hi! I am a Python chasing Gophers for food while sipping a cup of coffee in Java island.
+Hi! I am a Python chasing Gophers for food while sipping a cup of coffee on Java island.
 
 <!--
 ### 🛠️ Building tools:
