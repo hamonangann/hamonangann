@@ -1,26 +1,12 @@
 # Greetings! 👋
 
-I am a Python chasing Gophers for food while sipping a cup of coffee in Java.
-
-<!--
-### 🛠️ Building tools:
-
-- Quite familiar: GNU/Linux, MySQL Community, Python 3
-- Currently learning: Apache2, PHP
--->
+I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
 
 ### 📚 Useful books for everyone:
 
 - [Automate the Boring Stuff (in computer) with Python](https://automatetheboringstuff.com/), AI Swegart
 - [But How Do It Know—The Basic Principles of Computers For Everyone](https://openlibrary.org/books/OL26675175M/But_How_Do_It_Know), J. Clark Scott
 - Visit [my blog](https://hamonangann.github.io) :v:
-
-<!--
-### Good references:
-
-- Automate the Boring Stuff with Python, AI Swegart
-- But How Do It Know, J. Clark Scott
--->
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
