@@ -1,4 +1,3 @@
-<!--
 # Greetings! 👋
 
 I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
@@ -10,7 +9,6 @@ I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hir
 - Visit [my blog](https://hamonangann.github.io) :v:
 
 ### Want to say hi?
--->
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
