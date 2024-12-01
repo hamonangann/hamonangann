@@ -2,7 +2,7 @@
 
 I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
 
-### 📚 Useful books for everyone:
+### 📚 Useful for everyone:
 
 - [Automate the Boring Stuff (in computer) with Python](https://automatetheboringstuff.com/), AI Swegart
 - [But How Do It Know—The Basic Principles of Computers For Everyone](https://openlibrary.org/books/OL26675175M/But_How_Do_It_Know), J. Clark Scott
