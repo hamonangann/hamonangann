@@ -2,11 +2,11 @@
 
 I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
 
-### 📚 Useful for everyone:
+### Useful links 🔗
 
-- [Automate the Boring Stuff (in computer) with Python](https://automatetheboringstuff.com/), AI Swegart
-- [But How Do It Know—The Basic Principles of Computers For Everyone](https://openlibrary.org/books/OL26675175M/But_How_Do_It_Know), J. Clark Scott
-- Visit [my blog](https://hamonangann.github.io) :v:
+- [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html) by Peter Norvig
+- [Random Aesop's fables](https://www.aesopfables.com/randfabl.html)
+- [My blog](https://hamonangann.github.io/)
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
