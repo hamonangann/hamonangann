@@ -4,7 +4,7 @@ I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hir
 
 ### My spare time activities
 
-- [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html), long term commitment 👨‍🎓
+- [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html): my long term commitment 👨‍🎓
 - Read [random Aesop's fables](https://www.aesopfables.com/randfabl.html) 📖
 - Write [a blog](https://hamonangann.github.io/) 📝
 
