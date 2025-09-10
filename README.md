@@ -2,11 +2,11 @@
 
 I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
 
-### Useful links 🔗
+### My spare time activities
 
-- [Teach Yourself Programming in Ten Years](https://www.norvig.com/21-days.html) by Peter Norvig
-- [Random Aesop's fables](https://www.aesopfables.com/randfabl.html)
-- [My blog](https://hamonangann.github.io/)
+- [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html), long term commitment 👨‍🎓
+- Read [random Aesop's fables](https://www.aesopfables.com/randfabl.html) 📖
+- Write [a blog](https://hamonangann.github.io/) 📝
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
