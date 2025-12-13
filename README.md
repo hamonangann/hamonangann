@@ -12,7 +12,7 @@ I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
 
 ### Trivia
-The portrait is by [Albrecht_Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer), ca. 1506
+The portrait is by [Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer), ca. 1506
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
