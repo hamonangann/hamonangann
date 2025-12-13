@@ -12,7 +12,7 @@ I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
 
 ### Trivia
-The portrait is by Lucas Cranach the Elder, ca. 1508
+The portrait is by [Lucas Cranach the Elder](https://en.wikipedia.org/wiki/Lucas_Cranach_the_Elder), ca. 1508
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
