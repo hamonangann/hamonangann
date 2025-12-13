@@ -1,6 +1,6 @@
 # Greetings! 👋
 
-I fix [LAMPs](https://en.wikipedia.org/wiki/LAMP_(software_bundle)) at home. Hire me to do it for you.
+I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 
 ### My spare time activities
 
