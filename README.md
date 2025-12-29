@@ -5,14 +5,14 @@ I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 ### My spare time activities
 
 - [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html): my long term commitment 👨‍🎓
-- Collect physical DVDs and books 📖
+- Shop DVDs and physical books 📖
 - Write [a blog](https://hamonangann.github.io/) 📝
 
 ### Want to say hi?
 Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
 
 ### Trivia
-The portrait is by [Albrecht Dürer](https://en.wikipedia.org/wiki/Albrecht_D%C3%BCrer), ca. 1506
+The portrait is by [Albrecht Dürer](https://en.wikipedia.org/wiki/List_of_paintings_by_Albrecht_D%C3%BCrer), ca. 1506
 <!--
 **hamonangann/hamonangann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
