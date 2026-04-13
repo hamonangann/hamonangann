@@ -5,7 +5,7 @@ I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 ### My spare time activities
 
 - [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html)
-- Read books, or listen to [Handel](https://en.wikipedia.org/wiki/George_Frideric_Handel) or [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)'s works.  📖
+- Read books, or listen to [Handel](https://en.wikipedia.org/wiki/George_Frideric_Handel) or [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)'s works  📖
 - Write [a blog](https://hamonangann.github.io/) 📝
 
 ### Want to say hi?
