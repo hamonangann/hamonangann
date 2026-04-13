@@ -4,12 +4,12 @@ I used to code in [Java](https://en.wikipedia.org/wiki/Java). Nice to meet you!
 
 ### My spare time activities
 
-- [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html): my long term commitment 👨‍🎓
-- Shop DVDs and physical books 📖
+- [Teach Myself Programming in Ten Years](https://www.norvig.com/21-days.html)
+- Read books, or listen to [Handel](https://en.wikipedia.org/wiki/George_Frideric_Handel) or [Bach](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)'s works.  📖
 - Write [a blog](https://hamonangann.github.io/) 📝
 
 ### Want to say hi?
-Mail me at [b.hamonangan.p@gmail.com](mailto:b.hamonangan.p@gmail.com) 📬
+Mail me at [b.hamonangan@protonmail.com](mailto:b.hamonangan@protonmail.com) 📬
 
 ### Trivia
 The portrait is by [Albrecht Dürer](https://en.wikipedia.org/wiki/List_of_paintings_by_Albrecht_D%C3%BCrer), ca. 1506
